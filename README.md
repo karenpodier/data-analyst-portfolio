@@ -5,14 +5,14 @@ Welcome to my Data Analyst Portfolio!
 I am transitioning from a Secondary School Science Teacher to a Data Analyst, with a focus on **Power BI, SQL, Tableau, and Python for data storytelling and business insights**.
 
 This portfolio showcases **real-world style projects** where I:
-- ✅ Clean and analyze datasets using SQL/Python
-- 📊 Build dashboards with **Power BI & Tableau**
-- 🧠 Present insights with a **business-focused narrative**
-- 🔍 Focus on **UK-relevant data sources and decision-making scenarios**
+- Clean and analyze datasets using SQL/Python
+- Build dashboards with **Power BI & Tableau**
+- Present insights with a **business-focused narrative**
+- Focus on **UK-relevant data sources and decision-making scenarios**
 
 ---
 
-## 📌 Portfolio Index
+## Portfolio Index
 
 | Tool / Skill | Project | Status | Link |
 |--------------|--------|--------|------|
@@ -23,14 +23,14 @@ This portfolio showcases **real-world style projects** where I:
 
 ---
 
-## 🎓 Certifications in Progress
-- 📌 **PL-300: Microsoft Power BI Data Analyst (First Exam)**
-- 🎓 Google Data Analytics Certificate (planned)
-- ★ Tableau Desktop Specialist (planned)
+## Certifications in Progress
+-  **PL-300: Microsoft Power BI Data Analyst (First Exam)**
+- Google Data Analytics Certificate (planned)
+- Tableau Desktop Specialist (planned)
 
 ---
 
-## 🚀 Tech Stack
+## Tech Stack
 | Skill | Tools |
 |-------|------|
 | **Dashboarding** | Power BI, Tableau |
@@ -41,7 +41,7 @@ This portfolio showcases **real-world style projects** where I:
 
 ---
 
-## 📂 Project Structure
+## Project Structure
 ```
 /Power-BI-Projects
  /Project-01-Airbnb-London
