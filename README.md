@@ -1,12 +1,11 @@
-# data-analyst-portfolio
-A collection of data analysis projects using Power BI, Tableau, SQL and Python.
-# 🎯 Data Analyst Portfolio — Karen Podier
+
+Data Analyst Portfolio — Karen Podier
 
 Welcome to my Data Analyst Portfolio!  
 I am transitioning from a Secondary School Science Teacher to a Data Analyst, with a focus on **Power BI, SQL, Tableau, and Python for data storytelling and business insights**.
 
 This portfolio showcases **real-world style projects** where I:
-- ✅ Clean and analyse datasets using SQL/Python
+- ✅ Clean and analyze datasets using SQL/Python
 - 📊 Build dashboards with **Power BI & Tableau**
 - 🧠 Present insights with a **business-focused narrative**
 - 🔍 Focus on **UK-relevant data sources and decision-making scenarios**
