@@ -55,4 +55,4 @@ This portfolio showcases **real-world style projects** where I:
 ### 🚧 Portfolio Under Active Build
 I am actively building and uploading projects — check back for updates or ⭐ **star this repo** to follow along!
 
-📬 **Feel free to connect with me on LinkedIn** (link coming soon)
+📬 **Feel free to connect with me on LinkedIn** - https://www.linkedin.com/in/karen-podier-888a8738a/
