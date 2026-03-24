@@ -23,10 +23,10 @@ This portfolio showcases **real-world style projects** where I:
 
 ---
 
-## Certifications in Progress
--  **PL-300: Microsoft Power BI Data Analyst (First Exam)**
-- Google Data Analytics Certificate (planned)
-- Tableau Desktop Specialist (planned)
+## Certifications:
+-  **PL-300: Microsoft Power BI Data Analyst**
+- **COMPTia Data+**
+- **AI-900**
 
 ---
 
