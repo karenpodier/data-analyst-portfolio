@@ -14,6 +14,7 @@ My portfolio currently includes projects using SQL and data analysis reporting, 
 | Data Analysis / Reporting | World Happiness Analysis | Explored global happiness factors including GDP, health, social support, generosity and corruption. | Complete | [View Project](https://github.com/karenpodier/world-happiness-analysis) |
 | Power BI | Retail Sales Performance Analysis | Power BI dashboard project analysing sales performance, KPIs, product trends and regional performance. | In Progress | Coming Soon |
 | Python | Coffee Shop Order Management System | Built a simple Python order system with menu display, order taking, bill calculation, discounts and receipt printing. | Complete | [View Project](https://github.com/karenpodier/coffee-shop-order-system) |
+| Python / EDA | Insurance Charges Python Analysis | Analysed medical insurance charges using Python to explore the impact of age, BMI, smoking status and demographic factors. | Complete | [View Project](https://github.com/karenpodier/insurance-charges-python-analysis) |
 | Tableau | Coffee Chain Tableau Analysis | Built Tableau visualisations analysing Coffee Chain sales, profit, regional performance, product profitability, sales trends and forecasting. | Complete | [View Project](https://github.com/karenpodier/coffee-chain-tableau-analysis) |
 | Tableau | Bookstore Tableau Dashboard | Built a Tableau dashboard analysing bookstore sales by genre, region, publisher, order size and Q1 performance trends. | Complete | [View Project](https://github.com/karenpodier/bookstore-tableau-dashboard) |
 
