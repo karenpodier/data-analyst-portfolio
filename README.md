@@ -1,58 +1,49 @@
+# Data Analyst Portfolio — Karen Podier
 
-Data Analyst Portfolio — Karen Podier
+Welcome to my Data Analyst portfolio.
 
-Welcome to my Data Analyst Portfolio!  
-I am transitioning from a Secondary School Science Teacher to a Data Analyst, with a focus on **Power BI, SQL, Tableau, and Python for data storytelling and business insights**.
+I am transitioning from a Secondary School Science Teacher into data analytics, with a focus on using data to identify trends, communicate insights and support decision-making.
 
-This portfolio showcases **real-world style projects** where I:
-- Clean and analyze datasets using SQL/Python
-- Build dashboards with **Power BI & Tableau**
-- Present insights with a **business-focused narrative**
-- Focus on **UK-relevant data sources and decision-making scenarios**
+My portfolio currently includes projects using SQL and data analysis reporting, with further Power BI, Python and Tableau projects being added as I continue building my technical experience.
 
----
+## Portfolio Projects
 
-## Portfolio Index
+| Tool / Skill | Project | Summary | Status | Link |
+|---|---|---|---|---|
+| SQL / PostgreSQL | DVD Rental SQL Analysis | Analysed rental performance, customer behaviour, film categories and revenue trends using the DVD Rental dataset. | Complete | [View Project](https://github.com/karenpodier/dvd-rental-sql-analysis) |
+| Data Analysis / Reporting | World Happiness Analysis | Explored global happiness factors including GDP, health, social support, generosity and corruption. | Complete | [View Project](https://github.com/karenpodier/world-happiness-analysis) |
+| Power BI | Retail Sales Performance Analysis | Power BI dashboard project analysing sales performance, KPIs, product trends and regional performance. | In Progress | Coming Soon |
+| Python / EDA | Python Data Analysis Project | Exploratory data analysis project using Python, Pandas and data visualisation. | To Be Added | Coming Soon |
+| Tableau | Tableau Dashboard Project | Dashboard project using Tableau to explore business performance and visual insights. | To Be Added | Coming Soon |
 
-| Tool / Skill | Project | Status | Link |
-|--------------|--------|--------|------|
-| **Power BI** | Exploring Airbnb Trends in London — *Price Drivers & Location Insights* | ⏳ In Progress | Coming Soon |
-| **Tableau** | (To be added after Power BI project) | - | -
-| **SQL** | SQL Insights Project — *Revenue & Customer Trends Analysis* | - | -
-| **Python (EDA)** | Jupyter Notebook Analysis — *Exploring Movie Data for Trends* | - | -
+## Certifications
 
----
+- Microsoft Certified: Power BI Data Analyst Associate (PL-300)
+- CompTIA Data+
+- Microsoft Azure AI Fundamentals (AI-900)
 
-## Certifications:
--  **PL-300: Microsoft Power BI Data Analyst**
-- **COMPTia Data+**
-- **AI-900**
+## Technical Skills
 
----
+| Area | Tools / Skills |
+|---|---|
+| Data Visualisation | Power BI, Tableau |
+| Data Querying | SQL, PostgreSQL |
+| Programming | Python, Pandas, NumPy, Matplotlib |
+| Data Cleaning & Transformation | Excel, Power Query, SQL, Python |
+| Reporting & Insights | KPI reporting, dashboards, data storytelling, business insights |
+| Version Control | Git, GitHub |
 
-## Tech Stack
-| Skill | Tools |
-|-------|------|
-| **Dashboarding** | Power BI, Tableau |
-| **Data Querying** | SQL (PostgreSQL / BigQuery style) |
-| **Programming** | Python (Pandas, NumPy, Matplotlib) |
-| **Data Cleaning** | Power Query, Excel Advanced |
-| **Version Control** | Git & GitHub |
+## Current Focus
 
----
+I am currently developing a portfolio of practical analytics projects to demonstrate skills in:
 
-## Project Structure
-```
-/Power-BI-Projects
- /Project-01-Airbnb-London
-   - powerbi-report.pbix
-   - dashboard-screenshot.png
-   - insights-summary.pdf
-```
+- SQL querying and relational database analysis
+- Power BI dashboarding and KPI reporting
+- Python exploratory data analysis
+- Data cleaning and transformation
+- Data storytelling and communicating insights
 
----
+## Contact
 
-### 🚧 Portfolio Under Active Build
-I am actively building and uploading projects — check back for updates or ⭐ **star this repo** to follow along!
-
-📬 **Feel free to connect with me on LinkedIn** - https://www.linkedin.com/in/karen-podier-888a8738a/
+- LinkedIn: https://www.linkedin.com/in/karen-podier-888a873a/
+- GitHub: https://github.com/karenpodier
