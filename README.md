@@ -15,6 +15,7 @@ My portfolio currently includes projects using SQL and data analysis reporting, 
 | Power BI | Retail Sales Performance Analysis | Power BI dashboard project analysing sales performance, KPIs, product trends and regional performance. | In Progress | Coming Soon |
 | Python | Coffee Shop Order Management System | Built a simple Python order system with menu display, order taking, bill calculation, discounts and receipt printing. | Complete | [View Project](https://github.com/karenpodier/coffee-shop-order-system) |
 | Tableau | Coffee Chain Tableau Analysis | Built Tableau visualisations analysing Coffee Chain sales, profit, regional performance, product profitability, sales trends and forecasting. | Complete | [View Project](https://github.com/karenpodier/coffee-chain-tableau-analysis) |
+| Tableau | Bookstore Tableau Dashboard | Built a Tableau dashboard analysing bookstore sales by genre, region, publisher, order size and Q1 performance trends. | Complete | [View Project](https://github.com/karenpodier/bookstore-tableau-dashboard) |
 
 ## Certifications
 
